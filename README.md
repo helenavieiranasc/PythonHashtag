@@ -24,7 +24,7 @@ Desenvolvimento de uma aplicação de chat em tempo real que funciona tanto no n
 *   **Resultados:** Implementação de front-end e back-end em Python, permitindo a comunicação instantânea com uma IA
 *   **Tecnologias:** Python e Sreamlit
 
-> [!TIP]
+> [!IMPORTANT]
 > -> Para rodar o projeto do Chatbot, você precisa gerar sua própria **API Key** no site da [OpenAI](https://platform.openai.com), por questões de segurança, minha chave pessoal não está disponível no código.
 > Após gerar a sua, apenas adicione o link na parte indicada no arquivo `main.py`
 
