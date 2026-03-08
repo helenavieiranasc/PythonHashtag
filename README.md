@@ -1,6 +1,6 @@
 # 🐍 Jornada Python - Hashtag Programação
 
-Projetos que desenvolvi durante a **Jornada Python**, evento promovido pela Hashtag Programação com foco em aplicação prática de Python para resolver problemas reais.
+Projetos que desenvolvi durante a **Jornada Python**, evento promovido pela [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao) com foco em aplicação prática de Python para resolver problemas reais.
 
 ## 🚀 Projetos
 
