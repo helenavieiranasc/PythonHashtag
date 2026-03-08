@@ -1,5 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.csv linguist-vendored
+*.ipynb linguist-documentation=true
 *.ipynb linguist-detectable=true
-*.ipynb linguist-documentation=false
+*.py linguist-language=Python
+*.py linguist-detectable=true
